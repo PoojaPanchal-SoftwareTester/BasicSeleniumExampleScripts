@@ -35,7 +35,7 @@ public class AddDeleteElement {
 		
 		try
 		{
-			
+			system.out
 		
 		WebElement addButton = driver.findElement(By.xpath("//div[@class='example']/button"));
 		
